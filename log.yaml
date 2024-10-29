@@ -1,0 +1,4 @@
+[2024-10-03 12:35:00] - LOGIN ATTEMPT - User: admin - IP: 192.168.1.100 - Status: SUCCESS
+[2024-10-03 12:36:00] - LOGIN ATTEMPT - User: admin - IP: 192.168.1.100 - Status: FAILED
+[2024-10-03 12:37:30] - LOGIN ATTEMPT - User: admin - IP: 192.168.1.100 - Status: FAILED
+[2024-10-03 12:38:00] - LOGIN ATTEMPT - User: guest - IP: 10.0.0.1 - Status: FAILED
